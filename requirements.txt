@@ -13,7 +13,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.3
 jsonpath==0.82
 kiwisolver==1.1.0
-lxml==4.6.5
+lxml==4.9.1
 MarkupSafe==1.1.1
 matplotlib==3.2.1
 numpy==1.18.2
